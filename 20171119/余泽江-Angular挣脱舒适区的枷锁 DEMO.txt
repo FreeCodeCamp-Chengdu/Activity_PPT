@@ -1,0 +1,2 @@
+https://trotyl.github.io/ng-component-loader-demo/ 
+https://trotyl.github.io/ng-standalone-components-demo/ 
