@@ -12,6 +12,7 @@ assert.equal(answer.permutations("a").toString(), "a");
 assert.equal(answer.permutations("abc").toString(), ["abc","bac","bca","acb","cab","cba"].toString());
 assert.equal(answer.permutations("aabbcc").length, 90);
 assert.equal(answer.permutations("abcd").length, 24);
+assert.equal(answer.permutations("abcd").length, answer.getAnaNum("abcd"));
 assert.equal(answer.getAnaNum("biro"), 24);
 assert.equal(answer.getAnaNum("abcde"), 120);
 assert.equal(answer.getAnaNum("cass"), 12);
