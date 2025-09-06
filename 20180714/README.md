@@ -1,3 +1,3 @@
 [测试驱动开发 TDD (with JavaScript)]
 
-https://jimmylv.github.io/tdd-with-javascript-fcc.slides/
+https://github.com/JimmyLv/tdd-with-javascript.workshop
